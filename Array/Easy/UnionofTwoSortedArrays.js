@@ -27,6 +27,7 @@ Explanation:
 Common Elements in arr1 and arr2  are:  2,3,4,5
 Distnict Elements in arr1 are : 1,6,7,8,9,10
 Distnict Elemennts in arr2 are : 11,12
+ 
 Union of arr1 and arr2 is {1,2,3,4,5,6,7,8,9,10,11,12 */
 
 /* 
@@ -119,3 +120,4 @@ let arr1 = [1, 2, 3, 4, 5]
 let arr2 = [2, 3, 4, 4, 5, 8]
 
 console.log(UnionofTwoSortedArrays(arr1, arr2))
+
